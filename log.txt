@@ -1,0 +1,265 @@
+
+SRVAPISI
+192.168.2.21
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SRVDBAISI
+192.168.2.20
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SRVPRUEBAS_197
+192.168.2.197
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVVENTANILLA
+192.168.2.194
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SENTINELQA
+192.168.2.234
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRV_BI
+192.168.2.206
+Microsoft Windows Server 2016 or later (64-bit)
+ -----
+SRVDBISI
+192.168.2.164
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+PaginaWebSMG
+192.168.2.227
+Ubuntu Linux (64-bit)
+ -----
+SRV-NAGIOXI
+192.168.2.200
+Ubuntu Linux (64-bit)
+ -----
+SRVPRUEBAS_147
+192.168.2.147
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRV-ETD-CTADBA
+192.168.2.235
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SrvCOMPAC
+192.168.2.129
+Microsoft Windows Server 2012 (64-bit)
+ -----
+SRVAPBANCARIA
+192.168.2.228
+Ubuntu Linux (64-bit)
+ -----
+SRVAPMENORES_Clon
+192.168.2.220
+Ubuntu Linux (64-bit)
+ -----
+SRV-ETD-CTADBA-CLON
+192.168.2.31
+Microsoft Windows Server 2022 (64-bit)
+ -----
+VMware vCenter Server
+192.168.2.180
+VMware Photon OS (64-bit)
+ -----
+SRVSENTINELDB
+192.168.2.23
+Microsoft Windows Server 2019 (64-bit)
+ -----
+SRVAPMENORES
+192.168.2.230
+Ubuntu Linux (64-bit)
+ -----
+SRVISI
+192.168.2.19
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVOXXO
+192.168.2.231
+Ubuntu Linux (64-bit)
+ -----
+SRVAPMENORESPD
+192.168.2.117
+Ubuntu Linux (64-bit)
+ -----
+SENTINEL
+192.168.2.16
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVAPISI
+192.168.2.21
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SRVDBAISI
+192.168.2.20
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SRVPRUEBAS_197
+192.168.2.197
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVVENTANILLA
+192.168.2.194
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SENTINELQA
+192.168.2.234
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRV_BI
+192.168.2.206
+Microsoft Windows Server 2016 or later (64-bit)
+ -----
+SRVDBISI
+192.168.2.164
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+PaginaWebSMG
+192.168.2.227
+Ubuntu Linux (64-bit)
+ -----
+SRV-NAGIOXI
+192.168.2.200
+Ubuntu Linux (64-bit)
+ -----
+SRVPRUEBAS_147
+192.168.2.147
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRV-ETD-CTADBA
+192.168.2.235
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SrvCOMPAC
+192.168.2.129
+Microsoft Windows Server 2012 (64-bit)
+ -----
+SRVAPBANCARIA
+192.168.2.228
+Ubuntu Linux (64-bit)
+ -----
+SRVAPMENORES_Clon
+192.168.2.220
+Ubuntu Linux (64-bit)
+ -----
+SRV-ETD-CTADBA-CLON
+192.168.2.31
+Microsoft Windows Server 2022 (64-bit)
+ -----
+VMware vCenter Server
+192.168.2.180
+VMware Photon OS (64-bit)
+ -----
+SRVSENTINELDB
+192.168.2.23
+Microsoft Windows Server 2019 (64-bit)
+ -----
+SRVAPMENORES
+192.168.2.230
+Ubuntu Linux (64-bit)
+ -----
+SRVISI
+192.168.2.19
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVOXXO
+192.168.2.231
+Ubuntu Linux (64-bit)
+ -----
+SRVAPMENORESPD
+192.168.2.117
+Ubuntu Linux (64-bit)
+ -----
+SENTINEL
+192.168.2.16
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVAPISI
+192.168.2.21
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SRVDBAISI
+192.168.2.20
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SRVPRUEBAS_197
+192.168.2.197
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVVENTANILLA
+192.168.2.194
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SENTINELQA
+192.168.2.234
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRV_BI
+192.168.2.206
+Microsoft Windows Server 2016 or later (64-bit)
+ -----
+SRVDBISI
+192.168.2.164
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+PaginaWebSMG
+192.168.2.227
+Ubuntu Linux (64-bit)
+ -----
+SRV-NAGIOXI
+192.168.2.200
+Ubuntu Linux (64-bit)
+ -----
+SRVPRUEBAS_147
+192.168.2.147
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRV-ETD-CTADBA
+192.168.2.235
+Microsoft Windows Server 2022 (64-bit)
+ -----
+SrvCOMPAC
+192.168.2.129
+Microsoft Windows Server 2012 (64-bit)
+ -----
+SRVAPBANCARIA
+192.168.2.228
+Ubuntu Linux (64-bit)
+ -----
+SRVAPMENORES_Clon
+192.168.2.220
+Ubuntu Linux (64-bit)
+ -----
+SRV-ETD-CTADBA-CLON
+192.168.2.31
+Microsoft Windows Server 2022 (64-bit)
+ -----
+VMware vCenter Server
+192.168.2.180
+VMware Photon OS (64-bit)
+ -----
+SRVSENTINELDB
+192.168.2.23
+Microsoft Windows Server 2019 (64-bit)
+ -----
+SRVAPMENORES
+192.168.2.230
+Ubuntu Linux (64-bit)
+ -----
+SRVISI
+192.168.2.19
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----
+SRVOXXO
+192.168.2.231
+Ubuntu Linux (64-bit)
+ -----
+SRVAPMENORESPD
+192.168.2.117
+Ubuntu Linux (64-bit)
+ -----
+SENTINEL
+192.168.2.16
+Microsoft Windows Server 2008 R2 (64-bit)
+ -----

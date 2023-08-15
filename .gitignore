@@ -1,0 +1,40 @@
+# Ignorar archivos y carpetas generados por Python y entornos virtuales
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.vscode/
+
+# Ignorar archivos de configuración y caché de IDE
+.idea/
+*.code-workspace
+.vscode/
+*.sublime-workspace
+
+# Ignorar archivos de registro y archivos temporales
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Ignorar archivos de dependencias y paquetes
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Ignorar archivos de registro y caché de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar archivos de registro y caché de setuptools
+easy_install.log
+
+# Ignorar archivos generados por herramientas de documentación
+docs/_build/
+
+# Ignorar archivos y carpetas específicos para tu proyecto
+nombre-del-archivo-o-carpeta-a-ignorar
