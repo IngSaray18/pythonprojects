@@ -23,7 +23,7 @@ def enviar_mensaje(texto):
 
 # Sustituye 'TU_TOKEN' con el token de tu bot y 'TU_CHAT_ID' con el ID del chat donde quieras enviar el mensaje.
 
-mensaje = "ESTO ES UNA PRUEBA. "+hora_formateada 
+mensaje = "ESTO ES UNA PRUEBA.  helloooo"+hora_formateada 
 
 enviar_mensaje(mensaje)
 
